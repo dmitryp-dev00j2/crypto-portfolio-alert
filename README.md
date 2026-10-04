@@ -47,3 +47,5 @@ I have a systemd timer that runs this every 15 minutes. When an alert fires, the
 ## License
 
 MIT
+
+<!-- last-checked: 2026-10-04 -->
