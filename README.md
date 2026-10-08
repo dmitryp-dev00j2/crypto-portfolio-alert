@@ -48,4 +48,4 @@ I have a systemd timer that runs this every 15 minutes. When an alert fires, the
 
 MIT
 
-<!-- last-checked: 2026-10-07 -->
+<!-- last-checked: 2026-10-08 -->
